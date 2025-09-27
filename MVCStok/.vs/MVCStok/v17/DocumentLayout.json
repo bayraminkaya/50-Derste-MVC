@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nex\\source\\repos\\MVCStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\urunler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\urunler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\views\\satis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\satis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\musteri\\yenimusteri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\musteri\\yenimusteri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\urunler\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\urunler\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\urunlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\views\\urunler\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\urunler\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\views\\musteri\\musterigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\musteri\\musterigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\models\\entity\\tblmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\models\\entity\\tblmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|c:\\users\\nex\\source\\repos\\mvcstok\\mvcstok\\models\\entity\\tblkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\models\\entity\\tblkategoriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|C:\\Users\\Nex\\source\\repos\\MVCStok\\mvcstok\\models\\entity\\tblurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28AB9DC-9D01-41EE-9166-17926F9389B4}|MVCStok\\MVCStok.csproj|solutionrelative:mvcstok\\models\\entity\\tblurunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Musteri\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Musteri\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Musteri\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Musteri\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T18:23:16.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\MusteriController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\MusteriController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\MusteriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:22:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Urunler\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Urunler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Urunler\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Urunler\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T18:19:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\KategoriController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:07:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Satis\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Satis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Satis\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Satis\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T15:32:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YeniKategori.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Kategori\\YeniKategori.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T12:34:51.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T17:09:04.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KategoriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:00:51.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SatisController.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\SatisController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\SatisController.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\SatisController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\SatisController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:31:50.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T17:07:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "YeniMusteri.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Musteri\\YeniMusteri.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Musteri\\YeniMusteri.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Musteri\\YeniMusteri.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Musteri\\YeniMusteri.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T12:49:56.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrunEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Urunler\\UrunEkle.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Urunler\\UrunEkle.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Urunler\\UrunEkle.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Urunler\\UrunEkle.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T13:05:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UrunlerController.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\UrunlerController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\UrunlerController.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\UrunlerController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\UrunlerController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:17:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrunGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Urunler\\UrunGetir.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Urunler\\UrunGetir.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Urunler\\UrunGetir.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Urunler\\UrunGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T13:07:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MusteriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Musteri\\MusteriGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T11:01:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TBLMUSTERILER.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "RelativeToolTip": "MVCStok\\Models\\Entity\\TBLMUSTERILER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:55:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TBLKATEGORILER.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "RelativeToolTip": "MVCStok\\Models\\Entity\\TBLKATEGORILER.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:33:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCStok\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:17:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCStok\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCStok\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T17:09:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TBLURUNLER.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\TBLURUNLER.cs",
+              "RelativeDocumentMoniker": "MVCStok\\Models\\Entity\\TBLURUNLER.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\TBLURUNLER.cs",
+              "RelativeToolTip": "MVCStok\\Models\\Entity\\TBLURUNLER.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:04:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "MVCStok\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\MVCStok\\MVCStok\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MVCStok\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-09-23T17:04:13.411Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
